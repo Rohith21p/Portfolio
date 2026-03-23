@@ -1,0 +1,28 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="900" height="520" rx="34" fill="#070C1E"/>
+  <circle cx="180" cy="438" r="220" fill="url(#hbg1)" fill-opacity="0.7"/>
+  <circle cx="748" cy="106" r="180" fill="url(#hbg2)" fill-opacity="0.6"/>
+  <rect x="85" y="85" width="730" height="350" rx="26" fill="#0D1635" stroke="#596FBA" stroke-opacity="0.45"/>
+  <rect x="125" y="130" width="260" height="22" rx="11" fill="#D8E4FF" fill-opacity="0.88"/>
+  <rect x="125" y="166" width="175" height="13" rx="6.5" fill="#7E92C7" fill-opacity="0.8"/>
+  <rect x="125" y="209" width="335" height="192" rx="18" fill="#101F46"/>
+  <rect x="146" y="234" width="168" height="13" rx="6.5" fill="#85A4FF"/>
+  <rect x="146" y="258" width="122" height="10" rx="5" fill="#6D80B7"/>
+  <rect x="146" y="284" width="168" height="13" rx="6.5" fill="#85A4FF"/>
+  <rect x="146" y="308" width="118" height="10" rx="5" fill="#6D80B7"/>
+  <rect x="146" y="334" width="168" height="13" rx="6.5" fill="#85A4FF"/>
+  <rect x="146" y="358" width="110" height="10" rx="5" fill="#6D80B7"/>
+  <rect x="485" y="209" width="290" height="88" rx="16" fill="#0F1D44"/>
+  <rect x="485" y="313" width="290" height="88" rx="16" fill="#0F1D44"/>
+  <text x="125" y="74" fill="#E8EEFF" font-family="Sora, Arial" font-size="26" font-weight="700">Hospital Management System</text>
+  <defs>
+    <radialGradient id="hbg1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 438) rotate(90) scale(220)">
+      <stop stop-color="#6C89FF"/>
+      <stop offset="1" stop-color="#6C89FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hbg2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(748 106) rotate(90) scale(180)">
+      <stop stop-color="#8C64FF"/>
+      <stop offset="1" stop-color="#8C64FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

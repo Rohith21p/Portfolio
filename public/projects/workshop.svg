@@ -1,0 +1,24 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="900" height="520" rx="34" fill="#060C20"/>
+  <circle cx="218" cy="125" r="200" fill="url(#wbg1)" fill-opacity="0.65"/>
+  <circle cx="700" cy="410" r="195" fill="url(#wbg2)" fill-opacity="0.7"/>
+  <rect x="82" y="86" width="736" height="348" rx="25" fill="#0B1534" stroke="#5970BC" stroke-opacity="0.45"/>
+  <rect x="126" y="128" width="365" height="23" rx="11.5" fill="#E2EBFF" fill-opacity="0.9"/>
+  <rect x="126" y="165" width="232" height="13" rx="6.5" fill="#8095CB" fill-opacity="0.82"/>
+  <path d="M130 372C178 330 228 316 278 338C322 358 364 356 414 324C456 298 520 286 568 314C612 340 648 352 696 336C724 326 752 308 772 286" stroke="#90AFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M130 391C178 349 228 335 278 357C322 377 364 375 414 343C456 317 520 305 568 333C612 359 648 371 696 355C724 345 752 327 772 305" stroke="#6D82C5" stroke-width="4" stroke-linecap="round"/>
+  <rect x="126" y="211" width="220" height="118" rx="18" fill="#101D44"/>
+  <rect x="366" y="211" width="200" height="118" rx="18" fill="#101D44"/>
+  <rect x="586" y="211" width="190" height="118" rx="18" fill="#101D44"/>
+  <text x="126" y="72" fill="#E9EEFF" font-family="Sora, Arial" font-size="22" font-weight="700">ML-Based Predictive Automobile Workshop Management</text>
+  <defs>
+    <radialGradient id="wbg1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(218 125) rotate(90) scale(200)">
+      <stop stop-color="#517EFF"/>
+      <stop offset="1" stop-color="#517EFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="wbg2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 410) rotate(90) scale(195)">
+      <stop stop-color="#8A63FF"/>
+      <stop offset="1" stop-color="#8A63FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
