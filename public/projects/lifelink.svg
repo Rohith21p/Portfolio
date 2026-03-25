@@ -1,0 +1,39 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="900" height="520" rx="34" fill="#060B1E"/>
+  <circle cx="188" cy="118" r="210" fill="url(#lg1)" fill-opacity="0.65"/>
+  <circle cx="724" cy="426" r="198" fill="url(#lg2)" fill-opacity="0.72"/>
+  <rect x="80" y="84" width="740" height="350" rx="24" fill="#0C1638" stroke="#5A73C7" stroke-opacity="0.5"/>
+  <rect x="122" y="130" width="340" height="24" rx="12" fill="#E6EEFF" fill-opacity="0.88"/>
+  <rect x="122" y="168" width="228" height="12" rx="6" fill="#7E93CB" fill-opacity="0.8"/>
+
+  <circle cx="222" cy="270" r="78" fill="#111F48"/>
+  <circle cx="222" cy="270" r="40" fill="#6AA0FF" fill-opacity="0.88"/>
+  <circle cx="222" cy="270" r="18" fill="#EAF3FF"/>
+
+  <circle cx="444" cy="270" r="78" fill="#111F48"/>
+  <circle cx="444" cy="270" r="40" fill="#BF72FF" fill-opacity="0.86"/>
+  <circle cx="444" cy="270" r="18" fill="#F8E8FF"/>
+
+  <path d="M264 270H402" stroke="#9CC2FF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M262 286H404" stroke="#7D90C8" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="548" y="208" width="230" height="56" rx="14" fill="#101D44"/>
+  <rect x="566" y="226" width="114" height="12" rx="6" fill="#8EB2FF"/>
+  <rect x="548" y="278" width="230" height="56" rx="14" fill="#101D44"/>
+  <rect x="566" y="296" width="138" height="12" rx="6" fill="#C186FF"/>
+  <rect x="548" y="348" width="230" height="56" rx="14" fill="#101D44"/>
+  <rect x="566" y="366" width="122" height="12" rx="6" fill="#88CCFF"/>
+
+  <text x="122" y="72" fill="#ECF2FF" font-family="Sora, Arial" font-size="24" font-weight="700">LifeLink AI — Intelligent Patient &amp; Donor Matching</text>
+
+  <defs>
+    <radialGradient id="lg1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(188 118) rotate(90) scale(210)">
+      <stop stop-color="#4D7DFF"/>
+      <stop offset="1" stop-color="#4D7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lg2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(724 426) rotate(90) scale(198)">
+      <stop stop-color="#A86EFF"/>
+      <stop offset="1" stop-color="#A86EFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
